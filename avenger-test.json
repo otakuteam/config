@@ -1,28 +1,32 @@
 {
   "ads_config": {
-    "ad_platform": "unity",
-    "ad_time": 5,
-    "admob_app_id": "ca-app-pub-4463883562173773~8033051113",
-    "admob_banner_id": "ca-app-pub-4463883562173773/3351570072",
-    "admob_popup_id": "ca-app-pub-4463883562173773/8412325067",
-    "unity_app_id": "3712839",
-    "unity_banner_id": "banner",
-    "unity_popup_id": "video"
-  },
-  "album_config": {
-    "album": [
-      "bts",
-      "jhope",
-      "jimin",
-      "jin",
-      "jungkook",
-      "rm",
-      "suga",
-      "v",
-      "bt21",
-      "fanart"
+    "ad_waterfall": [
+      "unity",
+      "facebook"
+
+    ],
+    "ad_time": 0,
+    "ad_model": [
+     
+      {
+        "name": "unity",
+        "app_id": "3712839",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "video"
+      },
+     
+     
+      {
+        "name": "facebook",
+        "app_id": "abc",
+        "banner_id": "abc",
+        "popup_id": "abc",
+        "reward_id": "abc"
+      }
     ]
   },
+"album_config": { "album": [ "bts", "jhope", "jimin", "jin", "jungkook", "rm", "suga", "v", "bt21", "fanart" ] },
   "update_config": {
     "enable": false,
     "versionCode": 10,
@@ -66,7 +70,7 @@
       {
         "data_file_url": "https://www.dropbox.com/s/3bv9a4vs4x12e82/item_sell_vi.json?dl=1",
         "target": "vn",
-        "enable": false,
+        "enable": true,
         "show_price": true
       },
       {
