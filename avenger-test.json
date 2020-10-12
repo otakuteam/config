@@ -1,17 +1,29 @@
 {
   "ads_config": {
     "ad_waterfall": [
+      "admob",
       "unity",
-      "facebook"
+      "mopub"
 
     ],
     "ad_time": 0,
     "ad_model": [
-     
-     
-     
+ {
+        "name": "admob",
+        "app_id": "ca-app-pub-4463883562173773~8033051113",
+        "banner_id": "ca-app-pub-4463883562173773/3351570072",
+        "popup_id": "ca-app-pub-4463883562173773/8412325067",
+        "reward_id": "ca-app-pub-4463883562173773/8412325067"
+      },
       {
-        "name": "facebook",
+        "name": "unity",
+        "app_id": "3712839",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "video"
+      },
+      {
+        "name": "mopub",
         "app_id": "abc",
         "banner_id": "abc",
         "popup_id": "abc",
