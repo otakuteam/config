@@ -1,19 +1,38 @@
 {
   "ads_config": {
     "ad_waterfall": [
+      "inhouse",
       "admob",
       "unity"
     ],
-    "ad_time": 40,
+    "ad_time": 0,
     "ad_model": [
       {
-        "name": "admob",
-        "app_id": "ca-app-pub-8788317050206689~3022946446",
-        "banner_id": "ca-app-pub-8788317050206689/7700558053",
-        "popup_id": "ca-app-pub-8788317050206689/1135149706",
-        "reward_id": "ca-app-pub-8788317050206689/9785803524"
+        "name": "inhouse",
+        "app_id": "",
+        "banner_id": [
+          {
+            "id": "1",
+            "resource": "https://i.stack.imgur.com/PN9QJ.png",
+            "action": "https://play.google.com/store/apps/details?id=com.roblox.client"
+          },
+          {
+            "id": "1",
+            "resource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Z1-gwbw8WXMauVeSjE_JZYtKjPxjp_718SVMQQHrbff9_0tALO-oJmkJCvI6y09E_M&usqp=CAU",
+            "action": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
+          }
+        ],
+        "popup_id": "video",
+        "reward_id": "video"
       },
-       {
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-3940256099942544~3347511713",
+        "banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "popup_id": "ca-app-pub-3940256099942544/1033173712",
+        "reward_id": "ca-app-pub-3940256099942544/5224354917"
+      },
+      {
         "name": "unity",
         "app_id": "4119013",
         "banner_id": "banner",
