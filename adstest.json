@@ -12,11 +12,11 @@
         "app_id": "",
         "banner_id": [
           {
-            "resource": "https://i.stack.imgur.com/PN9QJ.png",
+            "resource": "https://i.pinimg.com/564x/b2/24/77/b2247729bdc95247ac3724474b7a03f4.jpg",
             "action": "https://play.google.com/store/apps/details?id=com.roblox.client"
           },
           {
-            "resource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Z1-gwbw8WXMauVeSjE_JZYtKjPxjp_718SVMQQHrbff9_0tALO-oJmkJCvI6y09E_M&usqp=CAU",
+            "resource": "https://i.pinimg.com/564x/d6/eb/a8/d6eba8f40ebb4efe0ce3b44f1b79d2c5.jpg",
             "action": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
           }
         ],
