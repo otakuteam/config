@@ -12,36 +12,30 @@
         "app_id": "",
         "banner_id": [
           {
-            "id": "1",
             "resource": "https://i.stack.imgur.com/PN9QJ.png",
             "action": "https://play.google.com/store/apps/details?id=com.roblox.client"
           },
           {
-            "id": "2",
             "resource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Z1-gwbw8WXMauVeSjE_JZYtKjPxjp_718SVMQQHrbff9_0tALO-oJmkJCvI6y09E_M&usqp=CAU",
             "action": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
           }
         ],
         "popup_id": [
           {
-            "id": "1",
             "resource": "https://i.pinimg.com/564x/59/65/bf/5965bfa91c6b42a6528f0f64badbdc5c.jpg",
             "action": "https://play.google.com/store/apps/details?id=com.roblox.client"
           },
           {
-            "id": "2",
             "resource": "https://i.pinimg.com/564x/6b/57/38/6b5738edb37c159853adad5099efa4d4.jpg",
             "action": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
           }
         ],
         "reward_id": [
           {
-            "id": "1",
             "resource": "https://v.pinimg.com/videos/mc/720p/83/05/b5/8305b5bc6da97a7ceef4da419813e59d.mp4",
             "action": "https://play.google.com/store/apps/details?id=com.roblox.client"
           },
           {
-            "id": "2",
             "resource": "https://v.pinimg.com/videos/mc/720p/c8/1e/9d/c81e9d0bffd56719fb9de78a3d556760.mp4",
             "action": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
           }
