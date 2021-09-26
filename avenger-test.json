@@ -31,7 +31,7 @@
       }
     ]
   },
-"album_config": { "album": [ "bts", "jhope", "jimin", "jin", "jungkook", "rm", "suga", "v", "bt21", "fanart" ] },
+"album_config": { "album": [ "nezuko", "tanjirou", "inosuke", "zenitsu", "others" ] },
   "update_config": {
     "enable": false,
     "versionCode": 10,
