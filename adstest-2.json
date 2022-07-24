@@ -17,10 +17,10 @@
       },
       {
         "name": "unity",
-        "app_id": "4119013",
+        "app_id": "4618271",
         "banner_id": "banner",
-        "popup_id": "video",
-        "reward_id": "video",
+        "popup_id": "Interstitial_Android",
+        "reward_id": "Rewarded_Android",
         "popup_time": 0
       }
     ]
