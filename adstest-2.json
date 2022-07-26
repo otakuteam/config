@@ -1,6 +1,7 @@
 {
   "ads_config": {
      "ad_waterfall": [
+       "admob",
       "gamob",
       "unity"
     ],
@@ -9,6 +10,14 @@
     "ad_model": [
       {
         "name": "admob",
+        "app_id": "c",
+        "banner_id": "00978111",
+        "popup_id": "3173712",
+        "reward_id": "ca-app-pub/5224354917",
+        "popup_time": 0
+      },
+       {
+        "name": "gamob",
         "app_id": "ca-app-pub-3940256099942544~3347511713",
         "banner_id": "ca-app-pub-3940256099942544/6300978111",
         "popup_id": "ca-app-pub-3940256099942544/1033173712",
